@@ -178,6 +178,10 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-logo {
+  text-decoration: none;
+}
+
 /* оформление ссылки, текущей страницы в секции навигации */
 .link.current-page {
   color: var(--accent-color);
